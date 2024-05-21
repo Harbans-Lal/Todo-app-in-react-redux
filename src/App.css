@@ -1,0 +1,19 @@
+form{
+  display: flex;
+  color: white;
+
+}
+input {
+  width: 50%;
+  padding: 7px;
+  margin: 2px;
+  
+}
+button {
+  width: 25%;
+  padding: 8px;
+  background-color: rgb(200, 233, 15);
+  border: none;
+  color:  white;
+  font-size: large;
+}
